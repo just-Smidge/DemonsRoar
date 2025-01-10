@@ -25,4 +25,5 @@ radeon rx7900xtx <br>
 250gb m.2 ssd (windows)
 
 # More images
+![image](https://github.com/user-attachments/assets/c0d4716d-b7ee-4772-945a-a16024cf08c6)
 ![image](https://github.com/user-attachments/assets/6afc16d3-72a0-4da1-a2b3-eb90dc28361c) <br>
